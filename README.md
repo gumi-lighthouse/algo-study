@@ -26,7 +26,7 @@
 
 >  BOJ/[문제번호] 문제 이름/계정/src
 >
-> e.g) BOJ/[13460] 구슬 탈출2/yoon1fe/Main.java
+> e.g) BOJ/[13460] 구슬 탈출2/dkwjdi/Main.java
 >
 > BOJ/[문제번호] 문제 이름/계정/README.md
 
