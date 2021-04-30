@@ -73,6 +73,6 @@
 
 |                    |  월  |  화  |                              수                              |                              목                              |                              금                              |                              토                              |                              일                              |
 | :----------------: | :--: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 1주차(04.28~05.02) |      |      | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [합승 택시 요금]("https://programmers.co.kr/learn/courses/30/lessons/72413") | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |
+| 1주차(04.28~05.02) |      |      | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) |
 
 ### **모두 화이팅!!!**
