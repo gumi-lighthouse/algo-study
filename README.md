@@ -74,5 +74,5 @@
 |                    |  월  |  화  |                              수                              |                              목                              |                              금                              |                              토                              |                              일                              |
 | :----------------: | :--: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1주차(04.28~05.02) |      |      | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 휴식 |  [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |
-
+| 2주차(05.03~05.09) |[문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |[괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)  |  |  |  |   |
 ### **모두 화이팅!!!!!**
