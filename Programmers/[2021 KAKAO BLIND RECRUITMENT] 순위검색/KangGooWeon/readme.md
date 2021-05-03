@@ -33,8 +33,6 @@ function solution(info, query) {
     map[key] = map[key].sort((a, b) => a - b);
   }
 
-  console.log(map);
-
   for (let i = 0; i < query.length; i++) {
     const arr = query[i].replace(/ and /g, " ").split(" ");
     const score = Number(arr.pop());
