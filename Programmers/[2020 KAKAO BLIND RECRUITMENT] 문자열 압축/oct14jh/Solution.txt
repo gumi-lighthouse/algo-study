@@ -1,0 +1,43 @@
+import java.util.*;
+class Solution {
+    public int solution(String s) {
+        int answer = Integer.MAX_VALUE;
+        int step = 1;
+        while(true) {
+            if(step > s.length()/2)
+                break;
+            int temp = process(s, step);
+            answer = Math.min(answer, temp);
+            step++;
+        }
+        
+        return answer;
+    }
+    
+    private int process(String str, int cut) {
+        StringBuilder resultStr = null;
+        int repeat = 1;
+        String duplicatedStr = null;
+        
+        for(int index = 0; index < str.length(); index+=cut) {
+            if(duplicatedStr == null) { // 처음일 때
+                duplicatedStr = str.substring(index, index + cut);
+            } else {    // 최초가 아닐 때
+                if(duplicatedStr.equals(str.substring(index, index + cut))) {   // 같냐?
+                    repeat++;   // 같으면 숫자 올려줘
+                } else {    // 안같으면
+                    if(repeat >= 2) {   // 일단 이전에 반복한것이 잇다면
+                        resultStr.append(repeat).append(duplicatedStr);
+                        duplicatedStr = str.substring(index, index + cut);
+                        repeat = 1;
+                    } else {
+                        resultStr.append(duplicatedStr);
+                        duplicatedStr = str.substring(index, index + cut);
+                        repeat = 1;
+                    }
+                }
+            }
+        }
+        return resultStr.length();
+    }
+}
