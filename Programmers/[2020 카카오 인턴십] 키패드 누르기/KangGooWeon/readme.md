@@ -50,7 +50,7 @@ function solution(numbers, hand) {
     return answer;
 }
 ```
-## 
+## 정리
 
 - 왼손과 오른손 엄지의 시작 좌표를 저장한다.
 - 조건문으로 왼손과 오른손을 처리한다.
